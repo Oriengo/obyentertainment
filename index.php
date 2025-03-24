@@ -75,7 +75,8 @@ include "common-header.php"
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>We craft impactful, innovative experiences for brands
+        with insightful strategies and modern technologies.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -197,7 +198,7 @@ include "common-header.php"
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About Us</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>OBY Entertainment is a premier entertainment brand, specializing in creative event management and innovative experiences that leave lasting memories.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
