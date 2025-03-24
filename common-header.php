@@ -46,10 +46,10 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home<br></a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="index" class="active">Home<br></a></li>
+          <li><a href="about">About</a></li>
+          <li><a href="services">Services</a></li>
+          <li><a href="portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
           <li><a href="#careers">Careers</a></li>
           <li><a href="#contact">Contact</a></li>
@@ -60,4 +60,23 @@
 
     </div>
   </header>
+
+  <style>
+
+#header {
+    padding: 5px 0; /* Adjusts top and bottom padding */
+    margin: 0; /* Removes any extra margin */
+    height: auto; /* Ensures it adjusts based on content */
+}
+#header img {
+    max-height: 80px; /* Adjust image height */
+    margin: 0; /* Remove unwanted margins */
+}
+
+#header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+  </style>
   

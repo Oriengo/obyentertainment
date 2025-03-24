@@ -46,6 +46,22 @@
             <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
           </div>
 
+          <div class="col-md-6">
+            <input type="text" name="name" class="form-control" placeholder="Phone number" required="">
+          </div>
+
+          <div class="col-md-6">
+            <input type="date" name="name" class="form-control" placeholder="Date of Event" required="">
+          </div>
+
+          <div class="col-md-6">
+            <input type="text" name="name" class="form-control" placeholder="Type of Event" required="">
+          </div>
+
+          <!-- type of event - select -->
+           <!--date of event-->
+           <!--phone number-->
+
           <div class="col-md-6 ">
             <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
           </div>
