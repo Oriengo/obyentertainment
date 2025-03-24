@@ -15,9 +15,10 @@ include "common-header.php"
             <p>We are team of talented sound Engineers with 
 
             OBY Entertainment is a leading full-service entertainment brand, offering magical lifetime
-                       memories through creative management. Positioned at the heart of events and entertainment,
-                       we're growing into a trusted partner. We craft impactful, innovative experiences for brands
-                       with insightful strategies and modern tech.
+             memories through creative management. Positioned at the heart of events and entertainment,
+             we're growing into a trusted partner.
+              <!-- We craft impactful, innovative experiences for brands
+             with insightful strategies and modern tech. -->
             </p>
             <div class="d-flex">
               <a href="#about" class="btn-get-started">Get Started</a>
@@ -135,7 +136,7 @@ include "common-header.php"
                 <a href="service-details.html" class="stretched-link">
                   <h3>Sound and Light System Rental</h3>
                 </a>
-                <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p>
+                <!-- <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p> -->
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -149,7 +150,7 @@ include "common-header.php"
                 <a href="service-details.html" class="stretched-link">
                   <h3>Live Band</h3>
                 </a>
-                <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+                <!-- <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p> -->
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -163,7 +164,7 @@ include "common-header.php"
                 <a href="service-details.html" class="stretched-link">
                   <h3>Corporate Services</h3>
                 </a>
-                <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+                <!-- <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p> -->
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -177,7 +178,7 @@ include "common-header.php"
                 <a href="service-details.html" class="stretched-link">
                   <h3>Parties</h3>
                 </a>
-                <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+                <!-- <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p> -->
                 <a href="service-details.html" class="stretched-link"></a>
               </div>
             </div>
@@ -570,10 +571,10 @@ include "common-header.php"
 
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Product</li>
-            <li data-filter=".filter-branding">Branding</li>
-            <li data-filter=".filter-books">Books</li>
+            <li data-filter=".filter-app">Parties</li>
+            <li data-filter=".filter-product">Live Bands</li>
+            <li data-filter=".filter-branding">Crusades</li>
+            <li data-filter=".filter-books">Cooperate Events</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
