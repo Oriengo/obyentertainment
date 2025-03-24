@@ -70,9 +70,9 @@ include "header2.php"
               <h3>Project information</h3>
               <ul>
                 <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Client</strong>: Yimbo Youth Choir</li>
+                <li><strong>Project date</strong>: 01 March, 2025</li>
+                <!-- <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li> -->
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
