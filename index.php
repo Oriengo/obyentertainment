@@ -11,7 +11,7 @@ include "common-header.php"
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h1>Grow your business with Oby Entertaiment</h1>
+            <h1>Make memories with <b>Oby Entertaiment</b></h1>
             <p>We are team of talented sound Engineers with 
 
             OBY Entertainment is a leading full-service entertainment brand, offering magical lifetime
@@ -25,7 +25,7 @@ include "common-header.php"
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img">
-            <img src="assets/img/image1.JPG" class="img-fluid animated" alt="">
+            <img src="assets/img/image1.jpg" class="img-fluid animated" alt="">
           </div>
         </div>
       </div>
@@ -33,7 +33,7 @@ include "common-header.php"
     </section><!-- /Hero Section -->
 
     <!-- Clients Section -->
-    <section id="clients" class="clients section light-background">
+    <!-- <section id="clients" class="clients section light-background">
 
       <div class="container" data-aos="fade-up">
 
@@ -41,33 +41,33 @@ include "common-header.php"
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>
 
         </div>
 
       </div>
 
-    </section>
+    </section> -->
     <!-- Services Section -->
     <section id="services" class="services section">
 
