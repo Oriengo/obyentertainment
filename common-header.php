@@ -36,7 +36,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
     <a href="index.html" class=" d-flex align-items-center me-auto">
-    <!-- <img src="assets/img/oby-entertainment.png-2.png" alt="" style="width: 200px; height: 200px; object-fit: cover;"> -->
+    <img src="assets/img/oby-entertainment.png-2.png" alt="" style="width: 200px; height: 200px; object-fit: cover;">
     <!-- <img src="assets/img/oby-entertainment.png-2.png" alt="Logo"> -->
     <h1 class="sitename">Oby Entertainment</h1>
     
@@ -50,6 +50,7 @@
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
+          <li><a href="#careers">Careers</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>

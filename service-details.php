@@ -10,7 +10,7 @@ include "common-header.php"
       <div class="container">
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="current">Service Details</li>
           </ol>
         </nav>
@@ -27,11 +27,11 @@ include "common-header.php"
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="services-list">
-              <a href="#" class="active">Web Design</a>
-              <a href="#">Software Development</a>
-              <a href="#">Product Management</a>
-              <a href="#">Graphic Design</a>
-              <a href="#">Marketing</a>
+              <a href="#" class="active">Sound System</a>
+              <a href="#">Event Planning</a>
+              <a href="#">Live Bands</a>
+              <a href="#">Cooperate Services</a>
+              <a href="#">Parties</a>
             </div>
 
             <h4>Enim qui eos rerum in delectus</h4>

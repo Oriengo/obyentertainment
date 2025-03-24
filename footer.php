@@ -83,9 +83,9 @@
   </div>
   <div class="social-links d-flex justify-content-center">
     <a href=""><i class="bi bi-twitter-x"></i></a>
-    <a href=""><i class="bi bi-facebook"></i></a>
-    <a href=""><i class="bi bi-instagram"></i></a>
-    <a href=""><i class="bi bi-linkedin"></i></a>
+    <a href="https://www.facebook.com/profile.php?id=61574142219457" target="_blank"><i class="bi bi-facebook"></i></a>
+    <a href="https://www.instagram.com/oby_entertainment?igsh=aXp4bTNqbXZhY2ww" target="_blank"><i class="bi bi-instagram"></i></a>
+    <a href="https://www.tiktok.com/@oby_entertainment?_t=ZM-8uq1MxeuhGQ&_r=1" target="_blank"><i class="bi bi-tiktok"></i></a>
   </div>
   <div class="credits">
   
