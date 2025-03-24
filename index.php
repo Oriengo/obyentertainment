@@ -134,7 +134,7 @@ include "common-header.php"
                 <img src="assets/img/speaker.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Sound and Light System Rental</h3>
                 </a>
                 <!-- <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p> -->
@@ -148,7 +148,7 @@ include "common-header.php"
                 <img src="assets/img/IMG-20250320-WA0007.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Live Band</h3>
                 </a>
                 <!-- <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p> -->
@@ -162,7 +162,7 @@ include "common-header.php"
                 <img src="assets/img/live-band.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Corporate Services</h3>
                 </a>
                 <!-- <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p> -->
@@ -176,11 +176,11 @@ include "common-header.php"
                 <img src="assets/img/image1.jpg" class="img-fluid" alt="">
               </div>
               <div class="details">
-                <a href="service-details.html" class="stretched-link">
+                <a href="service-details.php" class="stretched-link">
                   <h3>Parties</h3>
                 </a>
                 <!-- <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p> -->
-                <a href="service-details.html" class="stretched-link"></a>
+                <a href="service-details.php" class="stretched-link"></a>
               </div>
             </div>
           </div><!-- End Service Item -->
