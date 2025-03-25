@@ -43,20 +43,21 @@ include "common-header.php"
       <div class="swiper-slide">
         <div class="testimonial-wrap">
           <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3> Felix Owino</h3>
-            <h4>Ceo &amp; Founder</h4>
+            <img src="assets/img/testimonials/testimonials-1.jpg.." class="testimonial-img" alt="">
+            <h3> Rev. Timothy Meny</h3>
+            <h4>Rev </h4>
             <div class="stars">
               <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
             </div>
             <p>
               <i class="bi bi-quote quote-icon-left"></i>
-              <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+              <span>I recently had the opportunity to experience the services of Oby Entertainment during my aunt’s funeral, and I must commend them for their exceptional professionalism and quality delivery. Losing a loved one is never easy, and ensuring everything runs smoothly in such an emotional moment requires reliable service providers</span>
               <i class="bi bi-quote quote-icon-right"></i>
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
+      <!-- End testimonial item -->
 
       <div class="swiper-slide">
         <div class="testimonial-wrap">
@@ -92,7 +93,9 @@ include "common-header.php"
             </p>
           </div>
         </div>
-      </div><!-- End testimonial item -->
+      </div>
+      
+      <!-- End testimonial item -->
 
       <div class="swiper-slide">
         <div class="testimonial-wrap">
@@ -112,23 +115,7 @@ include "common-header.php"
         </div>
       </div><!-- End testimonial item -->
 
-      <div class="swiper-slide">
-        <div class="testimonial-wrap">
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <div class="stars">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-            </div>
-            <p>
-              <i class="bi bi-quote quote-icon-left"></i>
-              <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-              <i class="bi bi-quote quote-icon-right"></i>
-            </p>
-          </div>
-        </div>
-      </div><!-- End testimonial item -->
+
 
     </div>
     <div class="swiper-pagination"></div>
@@ -165,10 +152,10 @@ include "common-header.php"
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>App 1</h4>
+            <h4>Night Vigil Event</h4>
             <p>Lorem ipsum, dolor sit amet consectetur</p>
             <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="portfolio-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
       </div><!-- End Portfolio Item -->
@@ -177,10 +164,10 @@ include "common-header.php"
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Product 1</h4>
+            <h4>Live Band Setup</h4>
             <p>Lorem ipsum, dolor sit amet consectetur</p>
             <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="portfolio-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
       </div><!-- End Portfolio Item -->
@@ -189,15 +176,16 @@ include "common-header.php"
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Branding 1</h4>
+            <h4>Felloship.</h4>
             <p>Lorem ipsum, dolor sit amet consectetur</p>
             <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="portfolio-details" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
       </div><!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -207,9 +195,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -219,9 +208,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -231,9 +221,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -243,9 +234,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -255,8 +247,9 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
-
+      </div> -->
+      <!-- End Portfolio Item -->
+<!-- 
       <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
@@ -267,9 +260,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -279,9 +273,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -291,9 +286,10 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
         <div class="portfolio-content h-100">
           <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -303,7 +299,8 @@ include "common-header.php"
             <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div> -->
+      <!-- End Portfolio Item -->
 
     </div><!-- End Portfolio Container -->
 

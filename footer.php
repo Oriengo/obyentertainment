@@ -43,19 +43,30 @@
         <div class="row gy-4">
 
           <div class="col-md-6">
+            Name
             <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
           </div>
 
           <div class="col-md-6">
+            Phone Number
             <input type="text" name="name" class="form-control" placeholder="Phone number" required="">
           </div>
 
           <div class="col-md-6">
-            <input type="date" name="name" class="form-control" placeholder="Date of Event" required="">
+          Date of Event
+            <input type="date" name="name" class="form-control" placeholder="Date of Event">
           </div>
 
+          
           <div class="col-md-6">
-            <input type="text" name="name" class="form-control" placeholder="Type of Event" required="">
+          Type of Event
+            <select name="" id="" class="form-control">
+                <option value="">Select</option>
+                <option value="">Wedding</option>
+                <option value="">Party</option>
+                <option value="">Wedding</option>
+            </select>
+            <!-- <input type="text" name="name" class="form-control" placeholder="Type of Event"> -->
           </div>
 
           <!-- type of event - select -->
@@ -63,15 +74,18 @@
            <!--phone number-->
 
           <div class="col-md-6 ">
-            <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+            Email
+            <input type="email" class="form-control" name="email" placeholder="Your Email">
           </div>
 
-          <div class="col-md-12">
-            <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
-          </div>
+          <!-- <div class="col-md-6">
+
+            <input type="text" class="form-control" name="subject" placeholder="Subject">
+          </div> -->
 
           <div class="col-md-12">
-            <textarea class="form-control" name="message" rows="5" placeholder="Message" required=""></textarea>
+            Message
+            <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
           </div>
 
           <div class="col-md-12 text-center">

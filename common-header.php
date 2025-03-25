@@ -46,11 +46,11 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index" class="active">Home<br></a></li>
+          <li><a href="index">Home<br></a></li>
           <li><a href="about">About</a></li>
           <li><a href="services">Services</a></li>
           <li><a href="portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
+          <li><a href="team">Team</a></li>
           <li><a href="#careers">Careers</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>

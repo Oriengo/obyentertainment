@@ -1,5 +1,5 @@
 <?php  
-include "header2.php"
+include "common-header.php"
 ?>
   <main class="main">
 

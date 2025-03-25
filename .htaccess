@@ -14,3 +14,4 @@ RewriteRule ^(.*)/$ /$1 [L,R=301]
 # Remove .php extension from browser's address bar
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.+?)/?$ $1.php [NC,L]
+
