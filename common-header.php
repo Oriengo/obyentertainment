@@ -27,7 +27,6 @@
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-
 </head>
 
 <body class="index-page">
@@ -38,7 +37,6 @@
 
     <a href="index.html" class=" d-flex align-items-center me-auto">
     <img src="assets/img/oby-entertainment.png-2.png" alt="" style="width: 100px; height: 100px; object-fit: cover;">
-    <!-- <img src="assets/img/oby-entertainment.png-2.png" alt="Logo"> -->
     <h1 class="sitename">Oby Entertainment</h1>
     
 </a>
@@ -56,13 +54,16 @@
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
-
-
     </div>
   </header>
 
-  <style>
+  <!-- WhatsApp Floating Button -->
+  <a href="https://wa.me/254741171408?text=Hello%2C%20I%20would%20like%20to%20know%20the%20services%20you%20offer%3F" target="_blank" class="whatsapp-button">
+    <img src="assets/img/whatsapp-icon.png" alt="Chat with us on WhatsApp">
+</a>
 
+
+  <style>
 #header {
     padding: 5px 0; /* Adjusts top and bottom padding */
     margin: 0; /* Removes any extra margin */
@@ -77,6 +78,31 @@
     margin: 0;
     padding: 0;
 }
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000;
+    animation: pulse 1.5s infinite;
+}
+
+.whatsapp-button img {
+    width: 60px;  /* Adjust size */
+    height: 60px;
+    transition: transform 0.3s ease;
+}
+
+.whatsapp-button:hover img {
+    transform: scale(1.1);
+}
+
+/* Attention-Grabbing Animation */
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
 
   </style>
   
